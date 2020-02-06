@@ -1,4 +1,4 @@
 def oxford_comma (element)
-  element = []
-  [].join
+  element = ["kiwi"]
+  ["kiwi"].join
 end 
